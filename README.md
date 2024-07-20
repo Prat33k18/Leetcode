@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Prat33k18/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Prat33k18/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prat33k18/Leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Prat33k18/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
