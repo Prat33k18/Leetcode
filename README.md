@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prat33k18/Leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
