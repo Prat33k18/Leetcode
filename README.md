@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prat33k18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prat33k18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Prat33k18/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
