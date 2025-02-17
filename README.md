@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prat33k18/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Prat33k18/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Prat33k18/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prat33k18/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Prat33k18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prat33k18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Prat33k18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Prat33k18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
