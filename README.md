@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prat33k18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prat33k18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prat33k18/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-binary-search](https://github.com/Prat33k18/Leetcode/tree/master/0792-binary-search) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prat33k18/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prat33k18/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prat33k18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Prat33k18/Leetcode/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
