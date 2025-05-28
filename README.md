@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Prat33k18/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prat33k18/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Prat33k18/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prat33k18/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prat33k18/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prat33k18/Leetcode/tree/master/0070-climbing-stairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prat33k18/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prat33k18/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
