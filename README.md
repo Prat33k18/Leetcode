@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Prat33k18/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prat33k18/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Prat33k18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Prat33k18/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prat33k18/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prat33k18/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prat33k18/Leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Prat33k18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prat33k18/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
