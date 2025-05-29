@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Prat33k18/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prat33k18/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Prat33k18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Prat33k18/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prat33k18/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prat33k18/Leetcode/tree/master/0069-sqrtx) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prat33k18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Prat33k18/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prat33k18/Leetcode/tree/master/0268-missing-number) |
 ## Memoization
