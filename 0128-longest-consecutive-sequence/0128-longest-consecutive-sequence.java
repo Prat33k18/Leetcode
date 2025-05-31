@@ -13,7 +13,8 @@ class Solution {
             if (!s.contains(numb - 1)) {  
                 int currentNum = numb;
                 int currentStreak = 1;
-
+                  
+                
                 while (s.contains(currentNum + 1)) {
                     currentNum++;
                     currentStreak++;
