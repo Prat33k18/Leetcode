@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Prat33k18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Prat33k18/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prat33k18/Leetcode/tree/master/0290-word-pattern) |
+| [1078-remove-outermost-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Prat33k18/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
