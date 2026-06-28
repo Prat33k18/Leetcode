@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prat33k18/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Prat33k18/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Prat33k18/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Prat33k18/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prat33k18/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prat33k18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Prat33k18/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
